@@ -1,0 +1,6 @@
+E:\Class after H\BITM\Assignment2\FirstNumber\FirstNumber\bin\Debug\FirstNumber.exe.config
+E:\Class after H\BITM\Assignment2\FirstNumber\FirstNumber\bin\Debug\FirstNumber.exe
+E:\Class after H\BITM\Assignment2\FirstNumber\FirstNumber\bin\Debug\FirstNumber.pdb
+E:\Class after H\BITM\Assignment2\FirstNumber\FirstNumber\obj\Debug\FirstNumber.csprojResolveAssemblyReference.cache
+E:\Class after H\BITM\Assignment2\FirstNumber\FirstNumber\obj\Debug\FirstNumber.exe
+E:\Class after H\BITM\Assignment2\FirstNumber\FirstNumber\obj\Debug\FirstNumber.pdb
